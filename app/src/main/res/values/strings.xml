@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Cosmetics</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Cosmetics for you</string>
+    <string name="nav_header_subtitle">Choose your best brand</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Medik8</string>
+    <string name="menu_gallery">Zein Obagi</string>
+    <string name="menu_slideshow">isClinical</string>
+    <string name="colorscience">Colorscience</string>
+
+    <string name="position_medik_0">Medik8 Illuminating Eye Balm</string>
+    <string name="position_medik_1">Medik8 Mutiny</string>
+    <string name="position_medik_2">Medik8 Crystal Retinal 3</string>
+    <string name="position_medik_3">Medik8 Liquid Peptide</string>
+
+    <string name="content_medik_0">An instantly illuminating and hydrating eye balm which helps to visibly brighten and refresh tired eyes. Illuminating Eye Balm minimises the appearance of puffiness and dark circles by combining soothing natural extracts with sheer, light-reflecting mineral pigments in a subtle colour match tint. This multitasking balm infuses the under eye area with hydration while instantly refreshing for a bright, wide awake look. Enriched with multi-weight hyaluronic acid and glycerin, true moisture is drawn into the delicate eye area, smoothing the appearance of fine, dehydration lines. The appearance of the under eye area is visibly illuminated and skin texture is smoothed.</string>
+    <string name="content_medik_1">Meet Medik8’s first lip balm: Mutiny. A squalane-based alternative lip balm, the gel-like balm instantly melts into an oil on the lips, providing both instant and long-lasting hydration.
+                                    The lips are often neglected and can become very dry and susceptible to environmental changes. Mutiny differs from the majority of lip balms on the market, as it does not rely on occlusives such as petrolatum. While they are good temporary fixes for dry lips, they tend to form a fake barrier and don’t actually improve the appearance and feel of the lips long-term. Instead, this beautifully nourishing squalane-based formula absorbs into the lips to replenish lost lipids and gives the lips a skin-like protection level that prevents any lost moisture.</string>
+    <string name="content_medik_2">Stable Retinal Night Serum Medium-Strength Vitamin A
+                                    The entry point for those who are new to vitamin A or have tried mild retinol formulas and the answer to those looking to prevent early signs of skin ageing.</string>
+    <string name="content_medik_3">Bring your skin back to life with Liquid Peptides. This jam-packed, 30% peptide blend uses a pioneering drone delivery system to target visible signs of skin ageing. The needle-free formula helps to fight expression wrinkles by minimising muscle contractions while stimulating collagen synthesis to visibly plump the complexion. Highly efficacious, its sheer power is maximised by an innovative drone-based delivery system that ensures every peptide is activated within the layer of skin that it is needed most. Fine lines and wrinkles fade effortlessly away, elasticity is rejuvenated and skin texture is perfectly refined. At the same time, nourishing prebiotics help to balance the skin’s natural microbiome to ensure optimum skin health. It’s everything your skin has ever wanted, bottled.</string>
+
+</resources>

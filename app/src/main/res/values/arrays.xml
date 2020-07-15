@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="medik_eight">
+        <item>Medik8 Illuminating Eye Balm</item>
+        <item>Medik8 Mutiny</item>
+        <item>Medik8 Crystal Retinal 3</item>
+        <item>Medik8 Liquid Peptide</item>
+    </array>
+
+    <array name="zein_obagi">
+        <item>Acne Control</item>
+        <item>Aggressive Anti-Aging Program</item>
+        <item>Body Emulsion</item>
+        <item>Brightalive</item>
+        <item>Broad-Spectrum Sunscreen SPF 50</item>
+        <item>Calming Toner</item>
+        <item>Cellulite Control</item>
+        <item>Daily Power Defense</item>
+    </array>
+
+    <array name="is_clinical">
+        <item>ACTIVE SERUM</item>
+        <item>BODY COMPLEX</item>
+        <item>C EYE SERUM ADVANCE</item>
+        <item>CLARIFYING MUD MASQUE</item>
+        <item>CLEANSING COMPLEX</item>
+        <item>COPPER FIRMING MIST</item>
+        <item>CREAM CLEANSER</item>
+        <item>ECLIPSE SPF 50+</item>
+    </array>
+
+    <array name="colorscience">
+        <item>Sunforgettable Total Protection</item>
+        <item>MINERAL SUSCREEN SPF50</item>
+        <item>TOTAL PROTECTION FACE SHIELD</item>
+        <item>TOTAL EYE RENEWAL</item>
+        <item>MATTIFYING PERFECTOR PRIME</item>
+        <item>HYDRATING MIST</item>
+    </array>
+</resources>
